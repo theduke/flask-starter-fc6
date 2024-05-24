@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: theduke-flask-starter-fc6
+owner: theduke
+package: theduke/flask-starter-fc6
